@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+}
+
+.v6_4 {
+    width: 100%;
+    height: 1887px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v6_61 {
+    width: 100%;
+    height: 80px;
+    /* background: url("../images/v6_61.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 50px;
+    opacity: 1;
+    position: absolute;
+    top: 45px;
+    left: 111px;
+    overflow: hidden;
+}
+
+.v6_71 {
+    width: 991px;
+    height: 80px;
+    /* background: url("../images/v6_71.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v6_5 {
+    width: 991px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 66px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v6_72 {
+    width: 657px;
+    height: 44px;
+    /* background: url("../images/v6_72.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 18px;
+    left: 1041px;
+    overflow: hidden;
+}
+
+.v6_60 {
+    width: 104px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v6_62 {
+    width: 164px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 154px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v6_63 {
+    width: 142px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 368px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v6_64 {
+    width: 97px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 560px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
